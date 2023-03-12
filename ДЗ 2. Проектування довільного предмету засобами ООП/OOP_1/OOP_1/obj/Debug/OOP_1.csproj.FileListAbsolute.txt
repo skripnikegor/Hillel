@@ -1,0 +1,8 @@
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 2. Проектування довільного предмету засобами ООП\OOP_1\OOP_1\bin\Debug\OOP_1.exe.config
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 2. Проектування довільного предмету засобами ООП\OOP_1\OOP_1\bin\Debug\OOP_1.exe
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 2. Проектування довільного предмету засобами ООП\OOP_1\OOP_1\bin\Debug\OOP_1.pdb
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 2. Проектування довільного предмету засобами ООП\OOP_1\OOP_1\obj\Debug\OOP_1.csproj.AssemblyReference.cache
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 2. Проектування довільного предмету засобами ООП\OOP_1\OOP_1\obj\Debug\OOP_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 2. Проектування довільного предмету засобами ООП\OOP_1\OOP_1\obj\Debug\OOP_1.csproj.CoreCompileInputs.cache
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 2. Проектування довільного предмету засобами ООП\OOP_1\OOP_1\obj\Debug\OOP_1.exe
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 2. Проектування довільного предмету засобами ООП\OOP_1\OOP_1\obj\Debug\OOP_1.pdb
