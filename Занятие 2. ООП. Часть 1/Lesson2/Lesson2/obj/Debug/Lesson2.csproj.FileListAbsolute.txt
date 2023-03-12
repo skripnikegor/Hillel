@@ -1,0 +1,8 @@
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\Занятие 2. ООП. Часть 1\Lesson2\Lesson2\bin\Debug\Lesson2.exe.config
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\Занятие 2. ООП. Часть 1\Lesson2\Lesson2\bin\Debug\Lesson2.exe
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\Занятие 2. ООП. Часть 1\Lesson2\Lesson2\bin\Debug\Lesson2.pdb
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\Занятие 2. ООП. Часть 1\Lesson2\Lesson2\obj\Debug\Lesson2.csproj.AssemblyReference.cache
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\Занятие 2. ООП. Часть 1\Lesson2\Lesson2\obj\Debug\Lesson2.csproj.SuggestedBindingRedirects.cache
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\Занятие 2. ООП. Часть 1\Lesson2\Lesson2\obj\Debug\Lesson2.csproj.CoreCompileInputs.cache
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\Занятие 2. ООП. Часть 1\Lesson2\Lesson2\obj\Debug\Lesson2.exe
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\Занятие 2. ООП. Часть 1\Lesson2\Lesson2\obj\Debug\Lesson2.pdb
