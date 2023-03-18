@@ -1,0 +1,8 @@
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\Занятие 3. ООП. Часть 2. Интерфейсы\OOP_2\OOP_2\bin\Debug\OOP_2.exe.config
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\Занятие 3. ООП. Часть 2. Интерфейсы\OOP_2\OOP_2\bin\Debug\OOP_2.exe
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\Занятие 3. ООП. Часть 2. Интерфейсы\OOP_2\OOP_2\bin\Debug\OOP_2.pdb
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\Занятие 3. ООП. Часть 2. Интерфейсы\OOP_2\OOP_2\obj\Debug\OOP_2.csproj.AssemblyReference.cache
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\Занятие 3. ООП. Часть 2. Интерфейсы\OOP_2\OOP_2\obj\Debug\OOP_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\Занятие 3. ООП. Часть 2. Интерфейсы\OOP_2\OOP_2\obj\Debug\OOP_2.csproj.CoreCompileInputs.cache
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\Занятие 3. ООП. Часть 2. Интерфейсы\OOP_2\OOP_2\obj\Debug\OOP_2.exe
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\Занятие 3. ООП. Часть 2. Интерфейсы\OOP_2\OOP_2\obj\Debug\OOP_2.pdb
