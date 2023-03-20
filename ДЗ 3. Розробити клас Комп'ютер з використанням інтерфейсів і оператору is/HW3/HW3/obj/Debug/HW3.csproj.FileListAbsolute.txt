@@ -1,0 +1,8 @@
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 3. Розробити клас Комп'ютер з використанням інтерфейсів і оператору is\HW3\HW3\bin\Debug\HW3.exe.config
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 3. Розробити клас Комп'ютер з використанням інтерфейсів і оператору is\HW3\HW3\bin\Debug\HW3.exe
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 3. Розробити клас Комп'ютер з використанням інтерфейсів і оператору is\HW3\HW3\bin\Debug\HW3.pdb
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 3. Розробити клас Комп'ютер з використанням інтерфейсів і оператору is\HW3\HW3\obj\Debug\HW3.csproj.AssemblyReference.cache
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 3. Розробити клас Комп'ютер з використанням інтерфейсів і оператору is\HW3\HW3\obj\Debug\HW3.csproj.SuggestedBindingRedirects.cache
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 3. Розробити клас Комп'ютер з використанням інтерфейсів і оператору is\HW3\HW3\obj\Debug\HW3.csproj.CoreCompileInputs.cache
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 3. Розробити клас Комп'ютер з використанням інтерфейсів і оператору is\HW3\HW3\obj\Debug\HW3.exe
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 3. Розробити клас Комп'ютер з використанням інтерфейсів і оператору is\HW3\HW3\obj\Debug\HW3.pdb
