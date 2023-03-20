@@ -1,0 +1,8 @@
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 4. Розробити класи для умовної роботи з базами даних\HW4\HW4\bin\Debug\HW4.exe.config
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 4. Розробити класи для умовної роботи з базами даних\HW4\HW4\bin\Debug\HW4.exe
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 4. Розробити класи для умовної роботи з базами даних\HW4\HW4\bin\Debug\HW4.pdb
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 4. Розробити класи для умовної роботи з базами даних\HW4\HW4\obj\Debug\HW4.csproj.AssemblyReference.cache
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 4. Розробити класи для умовної роботи з базами даних\HW4\HW4\obj\Debug\HW4.csproj.SuggestedBindingRedirects.cache
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 4. Розробити класи для умовної роботи з базами даних\HW4\HW4\obj\Debug\HW4.csproj.CoreCompileInputs.cache
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 4. Розробити класи для умовної роботи з базами даних\HW4\HW4\obj\Debug\HW4.exe
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 4. Розробити класи для умовної роботи з базами даних\HW4\HW4\obj\Debug\HW4.pdb
