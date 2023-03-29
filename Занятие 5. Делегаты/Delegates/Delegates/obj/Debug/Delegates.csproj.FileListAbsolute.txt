@@ -1,0 +1,8 @@
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\Занятие 5. Делегаты\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\Занятие 5. Делегаты\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\Занятие 5. Делегаты\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\Занятие 5. Делегаты\Delegates\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\Занятие 5. Делегаты\Delegates\Delegates\obj\Debug\Delegates.csproj.SuggestedBindingRedirects.cache
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\Занятие 5. Делегаты\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\Занятие 5. Делегаты\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\Занятие 5. Делегаты\Delegates\Delegates\obj\Debug\Delegates.pdb

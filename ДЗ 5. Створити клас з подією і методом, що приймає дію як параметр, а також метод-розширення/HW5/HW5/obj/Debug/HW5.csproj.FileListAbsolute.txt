@@ -1,0 +1,8 @@
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 5. Створити клас з подією і методом, що приймає дію як параметр, а також метод-розширення\HW5\HW5\bin\Debug\HW5.exe.config
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 5. Створити клас з подією і методом, що приймає дію як параметр, а також метод-розширення\HW5\HW5\bin\Debug\HW5.exe
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 5. Створити клас з подією і методом, що приймає дію як параметр, а також метод-розширення\HW5\HW5\bin\Debug\HW5.pdb
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 5. Створити клас з подією і методом, що приймає дію як параметр, а також метод-розширення\HW5\HW5\obj\Debug\HW5.csproj.AssemblyReference.cache
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 5. Створити клас з подією і методом, що приймає дію як параметр, а також метод-розширення\HW5\HW5\obj\Debug\HW5.csproj.SuggestedBindingRedirects.cache
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 5. Створити клас з подією і методом, що приймає дію як параметр, а також метод-розширення\HW5\HW5\obj\Debug\HW5.csproj.CoreCompileInputs.cache
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 5. Створити клас з подією і методом, що приймає дію як параметр, а також метод-розширення\HW5\HW5\obj\Debug\HW5.exe
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 5. Створити клас з подією і методом, що приймає дію як параметр, а також метод-розширення\HW5\HW5\obj\Debug\HW5.pdb
