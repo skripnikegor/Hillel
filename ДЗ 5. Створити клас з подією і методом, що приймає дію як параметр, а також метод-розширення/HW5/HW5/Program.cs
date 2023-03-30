@@ -30,5 +30,9 @@ namespace HW5
         {
             Console.WriteLine($"Finded sqrt {e.SquareRoot} for {e.Number}");
         }
+
+        
     }
+
+    
 }

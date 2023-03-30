@@ -1,0 +1,8 @@
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 6. Клас для статистики розіграшів лотереї\HW6\HW6\bin\Debug\HW6.exe.config
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 6. Клас для статистики розіграшів лотереї\HW6\HW6\bin\Debug\HW6.exe
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 6. Клас для статистики розіграшів лотереї\HW6\HW6\bin\Debug\HW6.pdb
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 6. Клас для статистики розіграшів лотереї\HW6\HW6\obj\Debug\HW6.csproj.AssemblyReference.cache
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 6. Клас для статистики розіграшів лотереї\HW6\HW6\obj\Debug\HW6.csproj.SuggestedBindingRedirects.cache
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 6. Клас для статистики розіграшів лотереї\HW6\HW6\obj\Debug\HW6.csproj.CoreCompileInputs.cache
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 6. Клас для статистики розіграшів лотереї\HW6\HW6\obj\Debug\HW6.exe
+C:\Users\yskrypnyk\Documents\GitHub\Hillel\ДЗ 6. Клас для статистики розіграшів лотереї\HW6\HW6\obj\Debug\HW6.pdb

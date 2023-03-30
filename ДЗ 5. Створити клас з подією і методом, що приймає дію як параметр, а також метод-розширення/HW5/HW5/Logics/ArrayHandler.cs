@@ -29,7 +29,7 @@ namespace HW5.Logics
         {
             foreach(var number in doubles)
             {
-                var squareRoot = SquareCalculator.SquareRoot(number);
+                var squareRoot = number.SquareRoot();
                 if (checkNumber(squareRoot))
                 {
                     WholeNumberFind?.Invoke(this, new DoubleEvent(number, squareRoot));

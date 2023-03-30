@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DA697797-11A3-40F5-8CA5-F613B0893E4E}</ProjectGuid>
+    <ProjectGuid>{63533002-3E28-483E-BC11-9BB19C048AC0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>HW5</RootNamespace>
-    <AssemblyName>HW5</AssemblyName>
+    <RootNamespace>HW6</RootNamespace>
+    <AssemblyName>HW6</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,15 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Logics\ArrayHandler.cs" />
-    <Compile Include="Logics\SquareCalculator.cs" />
-    <Compile Include="Models\DoubleEvent.cs" />
+    <Compile Include="Models\Lottery.cs" />
+    <Compile Include="Models\StatOperations.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
