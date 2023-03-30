@@ -16,7 +16,7 @@ namespace HW6.Models
 
             for (int i = 0; i < number; i++)
             {
-                result.Add(rand.Next(number));
+                result.Add(rand.Next(1,number));
             }
 
             return result;
