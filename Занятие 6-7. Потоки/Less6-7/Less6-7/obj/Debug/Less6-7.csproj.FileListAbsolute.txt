@@ -1,0 +1,8 @@
+D:\GitHub\Hillel\Занятие 6-7. Потоки\Less6-7\Less6-7\bin\Debug\Less6-7.exe.config
+D:\GitHub\Hillel\Занятие 6-7. Потоки\Less6-7\Less6-7\bin\Debug\Less6-7.exe
+D:\GitHub\Hillel\Занятие 6-7. Потоки\Less6-7\Less6-7\bin\Debug\Less6-7.pdb
+D:\GitHub\Hillel\Занятие 6-7. Потоки\Less6-7\Less6-7\obj\Debug\Less6-7.csproj.AssemblyReference.cache
+D:\GitHub\Hillel\Занятие 6-7. Потоки\Less6-7\Less6-7\obj\Debug\Less6-7.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Hillel\Занятие 6-7. Потоки\Less6-7\Less6-7\obj\Debug\Less6-7.csproj.CoreCompileInputs.cache
+D:\GitHub\Hillel\Занятие 6-7. Потоки\Less6-7\Less6-7\obj\Debug\Less6-7.exe
+D:\GitHub\Hillel\Занятие 6-7. Потоки\Less6-7\Less6-7\obj\Debug\Less6-7.pdb

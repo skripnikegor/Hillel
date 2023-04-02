@@ -1,0 +1,8 @@
+D:\GitHub\Hillel\ДЗ 7. Базове використання потоків\HW7\HW7\bin\Debug\HW7.exe.config
+D:\GitHub\Hillel\ДЗ 7. Базове використання потоків\HW7\HW7\bin\Debug\HW7.exe
+D:\GitHub\Hillel\ДЗ 7. Базове використання потоків\HW7\HW7\bin\Debug\HW7.pdb
+D:\GitHub\Hillel\ДЗ 7. Базове використання потоків\HW7\HW7\obj\Debug\HW7.csproj.AssemblyReference.cache
+D:\GitHub\Hillel\ДЗ 7. Базове використання потоків\HW7\HW7\obj\Debug\HW7.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Hillel\ДЗ 7. Базове використання потоків\HW7\HW7\obj\Debug\HW7.csproj.CoreCompileInputs.cache
+D:\GitHub\Hillel\ДЗ 7. Базове використання потоків\HW7\HW7\obj\Debug\HW7.exe
+D:\GitHub\Hillel\ДЗ 7. Базове використання потоків\HW7\HW7\obj\Debug\HW7.pdb
