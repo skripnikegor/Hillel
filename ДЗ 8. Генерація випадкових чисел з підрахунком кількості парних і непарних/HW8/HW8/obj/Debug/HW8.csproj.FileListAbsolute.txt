@@ -1,0 +1,8 @@
+D:\GitHub\Hillel\ДЗ 8. Генерація випадкових чисел з підрахунком кількості парних і непарних\HW8\HW8\bin\Debug\HW8.exe.config
+D:\GitHub\Hillel\ДЗ 8. Генерація випадкових чисел з підрахунком кількості парних і непарних\HW8\HW8\bin\Debug\HW8.exe
+D:\GitHub\Hillel\ДЗ 8. Генерація випадкових чисел з підрахунком кількості парних і непарних\HW8\HW8\bin\Debug\HW8.pdb
+D:\GitHub\Hillel\ДЗ 8. Генерація випадкових чисел з підрахунком кількості парних і непарних\HW8\HW8\obj\Debug\HW8.csproj.AssemblyReference.cache
+D:\GitHub\Hillel\ДЗ 8. Генерація випадкових чисел з підрахунком кількості парних і непарних\HW8\HW8\obj\Debug\HW8.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Hillel\ДЗ 8. Генерація випадкових чисел з підрахунком кількості парних і непарних\HW8\HW8\obj\Debug\HW8.csproj.CoreCompileInputs.cache
+D:\GitHub\Hillel\ДЗ 8. Генерація випадкових чисел з підрахунком кількості парних і непарних\HW8\HW8\obj\Debug\HW8.exe
+D:\GitHub\Hillel\ДЗ 8. Генерація випадкових чисел з підрахунком кількості парних і непарних\HW8\HW8\obj\Debug\HW8.pdb
