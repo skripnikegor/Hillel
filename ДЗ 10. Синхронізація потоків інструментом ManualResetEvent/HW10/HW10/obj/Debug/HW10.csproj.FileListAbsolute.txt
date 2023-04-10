@@ -1,0 +1,8 @@
+D:\GitHub\Hillel\ДЗ 10. Синхронізація потоків інструментом ManualResetEvent\HW10\HW10\bin\Debug\HW10.exe.config
+D:\GitHub\Hillel\ДЗ 10. Синхронізація потоків інструментом ManualResetEvent\HW10\HW10\bin\Debug\HW10.exe
+D:\GitHub\Hillel\ДЗ 10. Синхронізація потоків інструментом ManualResetEvent\HW10\HW10\bin\Debug\HW10.pdb
+D:\GitHub\Hillel\ДЗ 10. Синхронізація потоків інструментом ManualResetEvent\HW10\HW10\obj\Debug\HW10.csproj.AssemblyReference.cache
+D:\GitHub\Hillel\ДЗ 10. Синхронізація потоків інструментом ManualResetEvent\HW10\HW10\obj\Debug\HW10.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Hillel\ДЗ 10. Синхронізація потоків інструментом ManualResetEvent\HW10\HW10\obj\Debug\HW10.csproj.CoreCompileInputs.cache
+D:\GitHub\Hillel\ДЗ 10. Синхронізація потоків інструментом ManualResetEvent\HW10\HW10\obj\Debug\HW10.exe
+D:\GitHub\Hillel\ДЗ 10. Синхронізація потоків інструментом ManualResetEvent\HW10\HW10\obj\Debug\HW10.pdb

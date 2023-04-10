@@ -1,0 +1,3 @@
+D:\GitHub\Hillel\Занятие 10. Task\Lesson10\Lesson10\obj\Debug\Lesson10.csproj.AssemblyReference.cache
+D:\GitHub\Hillel\Занятие 10. Task\Lesson10\Lesson10\obj\Debug\Lesson10.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Hillel\Занятие 10. Task\Lesson10\Lesson10\obj\Debug\Lesson10.csproj.CoreCompileInputs.cache
