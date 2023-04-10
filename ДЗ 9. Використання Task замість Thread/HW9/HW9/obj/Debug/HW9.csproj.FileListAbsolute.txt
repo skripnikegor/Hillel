@@ -1,0 +1,8 @@
+D:\GitHub\Hillel\ДЗ 9. Використання Task замість Thread\HW9\HW9\bin\Debug\HW9.exe.config
+D:\GitHub\Hillel\ДЗ 9. Використання Task замість Thread\HW9\HW9\bin\Debug\HW9.exe
+D:\GitHub\Hillel\ДЗ 9. Використання Task замість Thread\HW9\HW9\bin\Debug\HW9.pdb
+D:\GitHub\Hillel\ДЗ 9. Використання Task замість Thread\HW9\HW9\obj\Debug\HW9.csproj.AssemblyReference.cache
+D:\GitHub\Hillel\ДЗ 9. Використання Task замість Thread\HW9\HW9\obj\Debug\HW9.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Hillel\ДЗ 9. Використання Task замість Thread\HW9\HW9\obj\Debug\HW9.csproj.CoreCompileInputs.cache
+D:\GitHub\Hillel\ДЗ 9. Використання Task замість Thread\HW9\HW9\obj\Debug\HW9.exe
+D:\GitHub\Hillel\ДЗ 9. Використання Task замість Thread\HW9\HW9\obj\Debug\HW9.pdb
