@@ -9,6 +9,7 @@ namespace HW10
 {
     internal class Program
     {
+        static ManualResetEvent mre = new ManualResetEvent(false);
         static void Main(string[] args)
         {
             Random rnd = new Random();
@@ -21,21 +22,18 @@ namespace HW10
                 list.Add(rnd.Next(1,20));
             }
 
-            //Create mre objects for different functions
-            ManualResetEvent mreChecker = new ManualResetEvent(false);
-            ManualResetEvent mreSummer = new ManualResetEvent(false);
-
             //Create Thread for checking and run it
             Console.WriteLine("Run checker");
-            Thread check = new Thread(() => Checker(list, mreChecker));
-            check.Start();
-            mreChecker.WaitOne();
-
+            Thread check = new Thread(() => Checker(list));
+            
             //Create Thread for summaring and run it
             Console.WriteLine("Run summer");
-            Thread summer = new Thread(() => result += Summer(list, mreSummer));
+            Thread summer = new Thread(() => result += Summer(list));
             summer.Start();
-            mreSummer.WaitOne();
+            check.Start();
+
+            check.Join();
+            summer.Join();
 
             Console.WriteLine($"Result is {result}");
 
@@ -43,11 +41,12 @@ namespace HW10
         }
 
 
-        public static int Summer(List<int> list, ManualResetEvent mre)
+        public static int Summer(List<int> list)
         {
             int result = 0;
             int threadsQty = 4;
             int quantity = list.Count / threadsQty;
+            mre.WaitOne();
 
             for (int i = 0; i < threadsQty; i++)
             {
@@ -58,8 +57,6 @@ namespace HW10
             }                
 
             Console.WriteLine("Summer finished work");
-            mre.Set();
-
             return result;
         }
 
@@ -74,15 +71,14 @@ namespace HW10
             return result;
         }
 
-        public static void Checker(List<int> list, ManualResetEvent mre)
+        public static void Checker(List<int> list)
         {
             foreach (int i in list)
             {
                 if (list[i] <= 0)
                 {
                     Console.WriteLine("I have found a number less than zero!"); 
-                }
-                    
+                }   
             }
             Console.WriteLine("Checker finished work");
             mre.Set();
