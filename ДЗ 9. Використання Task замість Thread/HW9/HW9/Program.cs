@@ -9,6 +9,7 @@ namespace HW9
 {
     internal class Program
     {
+        static ManualResetEvent mre = new ManualResetEvent(false);
         static void Main(string[] args)
         {
             Random rnd = new Random();
@@ -24,13 +25,15 @@ namespace HW9
             //Create Task for checking and run it
             Console.WriteLine("Run checker");
             Task check = new Task(() => Checker(list));
-            check.Start();
-            check.Wait();
+            
 
             //Create Task for summaring and run it
             Console.WriteLine("Run summer");
             Task summer = new Task(() => result += Summer(list));
+            check.Start();
             summer.Start();
+
+            check.Wait();
             summer.Wait();
 
             Console.WriteLine($"Result is {result}");
@@ -43,6 +46,7 @@ namespace HW9
             int result = 0;
             int threadsQty = 4;
             int quantity = list.Count / threadsQty;
+            mre.WaitOne();
 
             for (int i = 0; i < threadsQty; i++)
             {
@@ -78,6 +82,7 @@ namespace HW9
 
             }
             Console.WriteLine("Checker finished work");
+            mre.Set();
         }
     }
 }
