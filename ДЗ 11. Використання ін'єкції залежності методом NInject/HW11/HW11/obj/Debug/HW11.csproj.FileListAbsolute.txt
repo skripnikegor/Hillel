@@ -1,0 +1,11 @@
+D:\GitHub\Hillel\ДЗ 11. Використання ін'єкції залежності методом NInject\HW11\HW11\bin\Debug\HW11.exe.config
+D:\GitHub\Hillel\ДЗ 11. Використання ін'єкції залежності методом NInject\HW11\HW11\bin\Debug\HW11.exe
+D:\GitHub\Hillel\ДЗ 11. Використання ін'єкції залежності методом NInject\HW11\HW11\bin\Debug\HW11.pdb
+D:\GitHub\Hillel\ДЗ 11. Використання ін'єкції залежності методом NInject\HW11\HW11\obj\Debug\HW11.csproj.AssemblyReference.cache
+D:\GitHub\Hillel\ДЗ 11. Використання ін'єкції залежності методом NInject\HW11\HW11\obj\Debug\HW11.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\Hillel\ДЗ 11. Використання ін'єкції залежності методом NInject\HW11\HW11\obj\Debug\HW11.csproj.CoreCompileInputs.cache
+D:\GitHub\Hillel\ДЗ 11. Використання ін'єкції залежності методом NInject\HW11\HW11\obj\Debug\HW11.exe
+D:\GitHub\Hillel\ДЗ 11. Використання ін'єкції залежності методом NInject\HW11\HW11\obj\Debug\HW11.pdb
+D:\GitHub\Hillel\ДЗ 11. Використання ін'єкції залежності методом NInject\HW11\HW11\bin\Debug\Ninject.dll
+D:\GitHub\Hillel\ДЗ 11. Використання ін'єкції залежності методом NInject\HW11\HW11\bin\Debug\Ninject.xml
+D:\GitHub\Hillel\ДЗ 11. Використання ін'єкції залежності методом NInject\HW11\HW11\obj\Debug\HW11.csproj.CopyComplete
