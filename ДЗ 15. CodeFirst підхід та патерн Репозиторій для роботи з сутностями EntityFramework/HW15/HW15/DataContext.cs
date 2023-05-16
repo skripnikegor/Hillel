@@ -10,6 +10,10 @@ namespace HW15
 {
     public class DataContext : DbContext
     {
+        public DataContext()
+        {
+            
+        }
         public DataContext(DbContextOptions<DataContext> options) : base(options)
         {
 
@@ -17,7 +21,7 @@ namespace HW15
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=.;Database=HW15;Trusted_Connection=True;MultipleActiveResultSets=true");
+            optionsBuilder.UseSqlServer(@"Data Source=UACHA1NB258\\SQLEXPRESS;Initial Catalog=HW15;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
         }
 
         public DbSet<Good> Goods { get; set; }
