@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ДЗ 21. Валідація і кешування.props" />
+</Project>
