@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Contacts";
+}
+
+<section id="contact">
+    <h2>contact</h2>
+    <h3>Contact to me</h3>
+    <form action="#" id="form" onsubmit="return validateForm()">
+        <div><span>Your name: </span><input name="fname" class="input" type="text"></div>
+        <div><span>Your email: </span><input class="input" type="email"></div>
+        <div>
+            <span>Your phone number: </span><input type="range" value="100000000" min="100000000" max="999999999" oninput="this.nextElementSibling.value = this.value">
+            0<input type="number" inputmode="none" name="amountInput" min="100000000" max="999999999" value="100000000" oninput="this.form.amountRange.value=this.value" />
+        </div>
+        <div><span>Add more info below:</span></div>
+        <div>
+            <textarea cols="140" rows="2"></textarea>
+        </div>
+
+    </form>
+    <button type="submit" form="form" class="button">Send request</button>
+</section>
